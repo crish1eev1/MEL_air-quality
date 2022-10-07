@@ -1,0 +1,4 @@
+*.log
+venv/
+da_data_raw/
+da_data_workfiles/
